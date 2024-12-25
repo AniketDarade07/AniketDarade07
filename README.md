@@ -5,7 +5,7 @@
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : [**LinkedIn**](https://www.linkedin.com/in/aniket-darade-7b7819250/)
 - ⚡ Fun fact : **Code never lies, but comments sometimes do!**
-- 🧑‍💻 My portfolio : [Click here]
+- 🧑‍💻 My portfolio : Click here
 
   
 <h3 align="left">🌐 Socials:</h3>
