@@ -33,9 +33,7 @@
 <div style="float:left;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketDarade07&theme=dark" alt="AniketDarade07" />
 </div>
-<div>
-    <img src = "https://github-contributor-stats.vercel.app/api?username=AniketDarade07&limit=5&theme=radical&combine_all_yearly_contributions=true">
-</div>
+
 
 
 
